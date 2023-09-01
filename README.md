@@ -14,7 +14,7 @@ In addition to my exam accomplishments, I've also excelled in practical projects
 - 📜 [Algorithms Advanced with C# - July 2023](Algorithms%20Advanced%20with%20C%23%20-%20July%202023%20-%20Certificate.pdf)
 - 📜 [ASP.NET Fundamentals - May 2023](ASP.NET%20Fundamentals%20-%20May%202023%20-%20Certificate.pdf)
 - 📜 [Algorithms Fundamentals with C# - May 2023](Algorithms%20Fundamentals%20with%20C%23%20-%20May%202023%20-%20Certificate.pdf)
-- 📜 [Math Concepts for Developers - March 2023](Certificate.pdf) - Developed a project showcasing math concepts, accessible on [GitHub](https://github.com/baal98/Perlin-Noise--Mathematical-Exploration)
+- 📜 [Math Concepts for Developers - March 2023](Math%20Concepts%20for%20Developers%20-%20March%202023%20-%20Certificate.pdf) - Developed a project showcasing math concepts, accessible on [GitHub](https://github.com/baal98/Perlin-Noise--Mathematical-Exploration)
 - 📜 [Entity Framework Core - February 2023](Entity%20Framework%20Core%20-%20February%202023%20-%20Certificate.pdf)
 - 📜 [MS SQL - January 2023](https://softuni.bg/certificates/details/157801/81fca845)
 - 📜 [Data Structures Advanced (with C#) - December 2022](https://softuni.bg/certificates/details/157488/97492315)
