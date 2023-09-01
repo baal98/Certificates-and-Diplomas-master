@@ -24,6 +24,6 @@ In addition to my exam accomplishments, I've also excelled in practical projects
 - 📜 [JS Advanced - September 2022](JS%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
 - 📜 [C# Advanced - September 2022](C%23%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
 - 📜 [Programming Fundamentals with C# - January 2022](Programming%20Fundamentals%20with%20C%23%20-%20January%202022%20-%20Certificate.pdf)
-- 📜 [Programming Basics with C# - October 2021](Programming%20Basics%20with%20C%23%20-%20October%202021%20-%20Certificate.pdf)
+- 📜 [Programming Basics with C# - October 2021](Programming%20Basics%20-%20October%202021%20-%20Certificate.pdf)
 
 I am excited to continue my journey of learning and growth through SoftUni's exceptional courses! 🚀
