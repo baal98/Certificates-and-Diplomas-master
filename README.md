@@ -12,7 +12,7 @@ In addition to my exam accomplishments, I've also excelled in practical projects
 - 📜 [Data Science - June 2023](Data%20Science%20-%20June%202023%20-%20Certificate.pdf) - Successfully completed and defended the Data Science project, available on [GitHub](https://github.com/baal98/Image-Classification-with-CIFAR-10-and-Fashion-MNIST)
 - 📜 [Machine Learning A-Z - UDEMY - October 2023](Machine%20Learning%20A-Z%20-%20UDEMY.pdf) - Successfully completed course at Udemy.
 - 📜 [ASP.NET Advanced - June 2023](ASP.NET%20Advanced%20-%20June%202023%20-%20Certificate.pdf) - Created an advanced ASP.NET project, showcased on [GitHub](https://github.com/baal98/Car-Designer)
-- 📜 [Containers and Cloud - September 2023](Containers%and%Cloud%-%September%2023%-%Certificate.pdf)
+- 📜 [Containers and Cloud - September 2023](Containers%20and%20Cloud%20-%20September%202023%20-%20Certificate.pdf)
 - 📜 [Algorithms Advanced with C# - July 2023](Algorithms%20Advanced%20with%20C%23%20-%20July%202023%20-%20Certificate.pdf)
 - 📜 [ASP.NET Fundamentals - May 2023](ASP.NET%20Fundamentals%20-%20May%202023%20-%20Certificate.pdf)
 - 📜 [Algorithms Fundamentals with C# - May 2023](Algorithms%20Fundamentals%20with%20C%23%20-%20May%202023%20-%20Certificate.pdf)
