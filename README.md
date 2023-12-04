@@ -9,6 +9,7 @@ Each certificate symbolizes a significant milestone achieved through unwavering 
 In addition to my exam accomplishments, I've also excelled in practical projects:
 
 - 📜 [Diploma for C# Web Developer](Diploma%20for%20C%23%20Web%20Developer.pdf)
+- 📜 [Machine Learning - September 2023](Machine%Learning%-%September%2023%-%Certificate.pdf) - Successfully completed and defended the Machine Learning project, available on [GitHub](https://github.com/baal98/Medical-Costs-Project)
 - 📜 [Data Science - June 2023](Data%20Science%20-%20June%202023%20-%20Certificate.pdf) - Successfully completed and defended the Data Science project, available on [GitHub](https://github.com/baal98/Image-Classification-with-CIFAR-10-and-Fashion-MNIST)
 - 📜 [Machine Learning A-Z - UDEMY - October 2023](Machine%20Learning%20A-Z%20-%20UDEMY.pdf) - Successfully completed course at Udemy.
 - 📜 [ASP.NET Advanced - June 2023](ASP.NET%20Advanced%20-%20June%202023%20-%20Certificate.pdf) - Created an advanced ASP.NET project, showcased on [GitHub](https://github.com/baal98/Car-Designer)
