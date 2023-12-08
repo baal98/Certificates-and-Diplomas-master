@@ -22,7 +22,7 @@ In addition to my exam accomplishments, I've also excelled in practical projects
 - 📜 [MS SQL](MS%20SQL%20-%20January%202023%20-%20Certificate.pdf)
 - 📜 [Data Structures Advanced (with C#)](Data%20Structures%20Advanced%20(with%20C%23)%20-%20December%202022%20-%20Certificate.pdf)
 - 📜 [Data Structures Fundamentals (with C#)](Data%20Structures%20Fundamentals%20(with%20C%23)%20-%20November%202022%20-%20Certificate.pdf)
-- 📜 [JS Applications - October 2022](JS%20Applications%20-%20October%202022%20-%20Certificate.pdf)
+- 📜 [JS Applications](JS%20Applications%20-%20October%202022%20-%20Certificate.pdf)
 - 📜 [C# OOP](C%23%20OOP%20-%20October%202022%20-%20Certificate.pdf)
 - 📜 [JS Advanced](JS%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
 - 📜 [C# Advanced](C%23%20Advanced%20-%20September%202022%20-%20Certificate.pdf)
