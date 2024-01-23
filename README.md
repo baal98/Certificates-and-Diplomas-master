@@ -8,6 +8,7 @@ Each certificate symbolizes a significant milestone achieved through unwavering 
 
 In addition to my exam accomplishments, I've also excelled in practical projects:
 
+- 📜 [Diploma for C# Full-Stack Developer](Diploma%20for%20C#%20Full-Stack%20Developer.pdf)
 - 📜 [Diploma for C# Web Developer](Diploma%20for%20C%23%20Web%20Developer.pdf)
 - 📜 [Machine Learning](Machine%20Learning%20-%20Certificate.pdf) - Successfully completed and defended the Machine Learning project, available on [GitHub](https://github.com/baal98/Medical-Costs-Project)
 - 📜 [Data Science](Data%20Science%20-%20Certificate.pdf) - Successfully completed and defended the Data Science project, available on [GitHub](https://github.com/baal98/Image-Classification-with-CIFAR-10-and-Fashion-MNIST)
